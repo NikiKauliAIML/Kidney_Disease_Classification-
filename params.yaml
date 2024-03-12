@@ -1,0 +1,10 @@
+# Pass the model parameter here to train the model
+# This parameter is realted to VGG16 model beacuse here take the pretrained model
+AUGMENTATION: True
+IMAGE_SIZE: [224,224,3]
+BATCH_SIZE: 16
+INCLUDE_TOP: False
+EPOCHS: 1
+CLASSES: 4
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01
