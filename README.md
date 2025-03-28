@@ -39,12 +39,3 @@ conda activate kidneyenv
 pip install -r requirement.txt
 
 
-### Build code pipeline
-
-1. Data Injestion - Add or retrive data from colud or drive and store in zip folder
-2. 
-
-
-#Error Faced during code
-1. Data ingestion
-    permission denied error beacuse or id access - write "url.split("/")[2]" instance of "url.split("/")[-2]"
