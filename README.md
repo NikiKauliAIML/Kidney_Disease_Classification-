@@ -11,7 +11,7 @@
 7. Update the pipeline
 8. Update main.py
 9. Update dvc.yaml
-10 Update app.py
+10. Update app.py
 
 # How to run?
 ### STEPS:
@@ -39,3 +39,5 @@ conda activate kidneyenv
 pip install -r requirement.txt
 
 
+### Step 4 : run the app.py
+python run app.py
