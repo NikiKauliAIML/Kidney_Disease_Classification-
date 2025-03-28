@@ -39,5 +39,5 @@ conda activate kidneyenv
 pip install -r requirement.txt
 
 
-### Step 4 : run the app.py
-python run app.py
+### Step 4 : run the main.py
+python run main.py
